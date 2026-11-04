@@ -1,0 +1,1 @@
+{"dependencies":{"vue":"^3.5.13"},"description":"AI Listing Factory v1 — 亚马逊文案/图片/视频三路生成系统骨架（本地桌面端，v1 不做真实 AI 生成）","devDependencies":{"@vitejs/plugin-vue":"^5.2.1","electron":"^33.3.1","vite":"^6.0.7"},"main":"electron/main.cjs","name":"ai-listing-factory","scripts":{"build":"vite build","dev":"vite","start":"vite build && electron ."},"type":"module","version":"0.1.0"}
