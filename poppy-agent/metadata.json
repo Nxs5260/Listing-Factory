@@ -1,0 +1,9 @@
+{
+  "client_id": "https://raw.githubusercontent.com/Nxs5260/Listing-Factory/main/poppy-agent/metadata.json",
+  "client_name": "Lisa Reference Agent",
+  "jwks_uri": "https://raw.githubusercontent.com/Nxs5260/Listing-Factory/main/poppy-agent/jwks.json",
+  "redirect_uris": [
+    "https://raw.githubusercontent.com/Nxs5260/Listing-Factory/main/poppy-agent/callback"
+  ],
+  "token_endpoint_auth_method": "private_key_jwt"
+}
